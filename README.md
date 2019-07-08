@@ -2,5 +2,6 @@
 hello-world
 
 
-- help
+- hello
 - license
+- project
